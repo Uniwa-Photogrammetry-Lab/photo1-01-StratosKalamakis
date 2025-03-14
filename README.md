@@ -1,3 +1,8 @@
+# 1η άσκηση στη φωτογραμμετρία 1
+## Όνομα: Καλαμάκης Ταξιάρχης Ευστράτιος
+## Αριθμός Μητρώου: 23391116
+## Εξάμηνο 4ο
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
